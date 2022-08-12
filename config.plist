@@ -1310,7 +1310,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>alcid=3 -rad24 -v amfi_get_out_of_my_way=1 ngfxcompat=1 ngfxgl=1 nvda_drv_vrl=1</string>
+				<string>alcid=11 -rad24 -v amfi_get_out_of_my_way=1 ngfxcompat=1 ngfxgl=1 nvda_drv_vrl=1</string>
 				<key>csr-active-config</key>
 				<data>
 				/w8AAA==
